@@ -1,0 +1,18 @@
+ i.wmc-mce-icon {
+	font: normal 20px/1 "dashicons";
+	padding: 0;
+	vertical-align: top;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	margin-left: -2px;
+	padding-right: 2px;
+}
+ i.wmc_whatsapp_multicontas {
+	color:#ff0000 !important;
+}
+.mce-selectbox{
+	padding: 0 !important;
+}
+.mce-label{
+	top: 0 !important;
+}
